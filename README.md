@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <div align="center"><br>
   <a href="https://github.com/arthurgit1">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgit1&theme=dark&hide_border=true" />
-    <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgit1&layout=compact&theme=dark&hide_border=true' />
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgit1&theme=dark&hide_border=true" />
+    <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgit1&layout=compact&theme=dark&hide_border=true' />
   </a>
   <br>
 </div>
